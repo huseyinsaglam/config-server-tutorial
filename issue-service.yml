@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: account-service
+    name: issue-service
 eureka:
   client:
     serviceUrl:
